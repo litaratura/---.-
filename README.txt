@@ -1,2 +1,2 @@
-author: Адам Міцкевіч
-title: Сьвіцязянка
+author: Адам Міцкевіч (Adam Mickiewicz)
+title: Сьвіцязянка / Свіцязянка
