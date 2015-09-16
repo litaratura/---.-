@@ -1,6 +1,6 @@
 author: Адам Міцкевіч
 title: Свіцязянка
-laguage: be
+language: be
 translate: Аляксей Зарыцкі
 translate_date: 1976
 translate_from: pl
