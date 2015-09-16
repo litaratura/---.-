@@ -1,2 +1,2 @@
 author: Адам Міцкевіч (Adam Mickiewicz)
-title: Сьвіцязянка / Свіцязянка (Świtezianka)
+title: Сьвіцязянка (Świtezianka)
